@@ -1,2 +1,1 @@
-# sachin-chavan1
-python
+# python [AI and MACHINE LEARNING]
